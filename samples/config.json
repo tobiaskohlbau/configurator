@@ -1,0 +1,10 @@
+{
+	"generators": {
+		"harris": {
+			"samplingRate": 100
+		},
+		"random": {
+			"samplingDistribution": 30
+		}
+	}
+}
